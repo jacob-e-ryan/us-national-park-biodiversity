@@ -11,6 +11,6 @@ Here are a few questions that this project has sought to answer:
 
 **Data sources:**
 
-Both `Observations.csv` and `Species_info.csv` was provided by [Codecademy.com]([https://content.codecademy.com/PRO/paths/data-science/biodiversity-solution.zip]).
+Both `Observations.csv` and `Species_info.csv` was sourced from https://content.codecademy.com/PRO/paths/data-science/biodiversity-solution.zip
 
 Note: While inspired by real data, the data here is mostly fictional.
